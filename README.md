@@ -1,4 +1,4 @@
-# The Computer Science and Engineering Students' Society, HKUSTSU Constitutions
+# The Computer Science and Engineering Students' Society, HKUSTSU Constitution
 
 ## 1. General
 ### 1.1. Official Name
@@ -33,7 +33,7 @@ Full Membership is available to all full-time undergraduates and postgraduates w
 Full Members have the privileges
 - To use all facilities provided by the Society;
 - To attend activities and functions arranged by the Society;
-- To be eligible for Membership of Sub-organizations of the Society;
+- To be eligible for Membership of sub-organizations of the Society;
 - To have the right to vote;
 - To have the right to nominate, to second, to be nominated for election, and to hold office as an executive officer of the Society;
 - To request the minutes from any Executive Committee meeting;
@@ -42,7 +42,7 @@ Full Members have the privileges
 #### 2.1.3. Obligations
 All potential undergraduate members must have paid the admission fee and the corresponding membership fee for their respective study years, to be considered as Full Members of the Society.  
 All potential postgraduate members must have paid the admission fee and continue to pay the annual fee to be considered as Full Members of the Society.  
-All full members have the obligations to follow the resolution of General Meetings, and to follow the Constitutions of the Society.  
+Full Members have the obligations to follow the resolution of General Meetings, and to follow the Constitution of the Society.  
 
 ### 2.2. General Membership
 #### 2.2.1. Eligibility
@@ -55,7 +55,7 @@ General Membership is available to all full-time undergraduates and postgraduate
 General Members have the privileges
 - To use all facilities provided by the Society;
 - To attend activities and functions arranged by the Society;
-- To be eligible for Membership of Sub-organizations of the Society;
+- To be eligible for Membership of sub-organizations of the Society;
 - To have the right to second a cabinet for the election of the Society;
 - To request the minutes from any Executive Committee meeting;
 - Are welcome to attend and contribute to any Executive Committee meeting but with no voting rights;
@@ -63,7 +63,7 @@ General Members have the privileges
 #### 2.2.3. Obligations
 All potential undergraduate members must have paid the admission fee and the corresponding membership fee for their respective study years, to be considered as General Members of the Society.  
 All potential postgraduate members must have paid the admission fee and continue to pay the annual fee to be considered as General Members of the Society.  
-All general members have the obligations to follow the resolution of General Meetings, and to follow the Constitutions of the Society.  
+General Members have the obligations to follow the resolution of General Meetings, and to follow the Constitution of the Society.  
 ### 2.3. Associate Membership
 #### 2.3.1. Eligibility
 Associate Membership is available to
@@ -75,11 +75,10 @@ Associate Members have the privileges
 - To use all facilities provided by the Society; and
 - To attend activities and functions arranged by the Society.
 #### 2.3.3. Obligations
-Associate Members have the obligations
-- To have paid and continue to pay only the annual fee to be considered as Associate Members of the Society; and
-- To follow the Constitutions of the Society.
+All potential members must have paid and continue to pay only the annual fee to be considered as Associate Members of the Society.  
+Associate Members have the obligations to follow the resolution of General Meetings, and to follow the Constitution of the Society.
 ### 2.4. Honorary Membership
-The Honorary Member List will be posted on the society website. Both the admission and membership fees shall be waived for Honorary Members.
+The Honorary Member List will be posted on the Society website. Both the admission and membership fees shall be waived for Honorary Members.
 #### 2.4.1. Eligibility
 Honorary Membership is available to
 - Any full-time teaching staff of the Department of Computer Science and Engineering recommended by the Society Committee; and
@@ -91,7 +90,7 @@ Honorary Members have the privileges
 - To attend activities and functions arranged by the Society; and
 - To have the speaking right in any General Meeting.
 #### 2.4.3. Obligations
-Honorary Members have the obligations to follow the resolution of General Meetings, and to follow the Constitutions of the Society.
+Honorary Members have the obligations to follow the resolution of General Meetings, and to follow the Constitution of the Society.
 
 ## 3. Honorary Advisors and Honorary Auditor
 ### 3.1. Honorary Advisors
@@ -103,8 +102,8 @@ Honorary Advisors have the privileges
 - To have the speaking right in any General Meeting.
 #### 3.1.2. Duties
 Honorary Advisors have the duties
-- To advise the current session of CSESS on certain affairs;
-- To oversee the operations of CSESS when necessary.  
+- To advise the current session of the Society on certain affairs;
+- To oversee the operations of the Society when necessary.  
 If there is a requisition signed by an Honorary Advisor, an Extraordinary General Meeting shall be convened by the President within two weeks after the requisition. In case of rejection, notice of the rejection shall be posted within two weeks after the requisition.  
 The session of an Honorary Advisor shall last for three years, the Honorary Advisor can be reappointed upon the consent of the current session.
 ### 3.2. Honorary Auditors
@@ -116,7 +115,7 @@ The resolution of a General Meeting shall possess the highest authority in the S
 ### 4.2. Chair
 The President of the Society shall be the chair of all General Meetings. In the absence of the President, either one of the two Vice-Presidents shall be the chair of the meetings. In case the President and both the two Vice-Presidents are absent, the attendee can vote any one of the Executive Committee members to be the chair of the General Meeting.
 ### 4.3. Secretary
-The Internal Secretary of the Society shall be responsible for taking notes and preparing minutes in all General Meetings. In case the Internal Secretary is absent, the External Secretary shall be the secretary of the General Meeting. In case both the Internal Secretary and External Secretary are absent, the attendee shall vote any one of the Executive-Committee members to be the secretary of the General Meeting.
+The Internal Secretary of the Society shall be responsible for taking notes and preparing minutes in all General Meetings. In case the Internal Secretary is absent, the External Secretary shall be the secretary of the General Meeting. In case both the Internal Secretary and External Secretary are absent, the attendee shall vote any one of the Executive Committee members to be the secretary of the General Meeting.
 ### 4.4. Quorum
 Ten percent or thirty (whichever is greater) of Full Members or General Members of the Society shall form a quorum of a General Meeting. If the quorum has not been met, then the General Meeting is failed.
 ### 4.5. Annual General Meeting
@@ -129,7 +128,7 @@ If there is other business raised during the Annual General Meeting, all items c
 5. To announce the Honorary Member(s).
 6. To introduce the Executive Committee of the next session.
 7. To pass and approve or amend the year plan and financial budget of the Executive Committee of the next session.
-8. To pass amendments to the Constitutions, if any.
+8. To pass amendments to the Constitution, if any.
 9. To appoint an Honorary Advisor and/or an Honorary Auditor.
 ### 4.6. Extraordinary General Meeting
 The Executive Committee shall have the right to convene an Extraordinary General Meeting of any purpose whenever necessary.  
@@ -159,7 +158,7 @@ General Polling except the polling for the election of new Executive Committee s
 Notice of General Polling and the motion(s) to be voted shall be posted at least 7 clear days beforehand.
 ### 5.4. Voting
 The result of the Polling is valid, provided that the number of votes is not less than twenty-five percent of Full Members of the Society.  
-The polling period shall last for 72 consecutive hours.  
+The polling period shall last for 3 consecutive days.  
 The provisional and official results of the General Polling shall be announced by the Executive Committee within 24 and 72 hours after the closure of the voting respectively.  
 Any complaints or appeals about the General Polling shall be made within 48 hours after the closure of the voting.  
 
@@ -185,7 +184,7 @@ The Executive Committee shall consist of the following positions.
 10. Academic Secretary,
 11. Marketing Secretary,
 12. General Secretary.  
-The Executive Committee shall be composed of at least six Committee Members including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary and a Financial Secretary. No member of the Committee may have more than one post.
+The Executive Committee shall be composed of at least six committee members including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary and a Financial Secretary. No member of the Committee may have more than one post.
 ### 6.3. Duties of Executive Committee Members:
 The President shall be the chief executive of the Society, shall represent the Executive Committee in all affairs and preside at all meetings of the Society.  
 The Internal Vice-President shall assist the President in all internal affairs and shall take the role of acting President during the absence of the President.  
@@ -202,7 +201,7 @@ The General Secretary shall be responsible for the general affairs.
 ### 6.4. Session
 The session of an Executive Committee begins at an Annual General Meeting and ends at the next Annual General Meeting. If the Annual General Meeting is replaced by polling, the session shall commence or conclude one week after the polling.
 ### 6.5. Sub-Committee
-Sub-Committee shall be responsible for assisting the executive members with the society affairs.
+Sub-Committee shall be responsible for assisting the Executive Committee with the Society affairs.
 #### 6.5.1. Composition
 Any three Full Members or General Members can propose the formation of sub-committee with proposal and financial budget approved by the Executive Committee. At least one Executive Committee member should be in the sub-committee.
 #### 6.5.2. Notice
@@ -219,7 +218,7 @@ The resignation will only be valid after 14 schooldays, and documented in the pe
 The whole Committee shall dissolve if the position(s) of the President, Internal Vice-President, External Vice-President, Internal Secretary, External Secretary, or the Financial Secretary remain vacant, unless the vacancy is filled by any other Full Member of the Society within 14 clear days after the vacancy occurred.  
 The Committee shall dissolute if it is passed by the General Polling.  
 ### 6.8. Vacancies
-In case of the vacancy of the President, their post shall be filled by one of the posts of the rest of the Committee Members and a General Polling based on this matter shall then be held.  
+In case of the vacancy of the President, their post shall be filled by one of the posts of the rest of the committee members and a General Polling based on this matter shall then be held.  
 In case of the vacancy of any committee member other than the President, their post shall be filled by a Full Member of the Society as candidate appointed by the committee.  
 Once the vacancy has been filled, notice shall be posted at least 7 clear days beforehand on School of Engineering notice areas. If there are thirty-five or ten percent (whichever is more) of Full Members or General Members written complaints to the Executive Committee within ten schooldays, then another candidate must be found. Otherwise, the candidate should be considered successful and the vacancy filled.  
 Any unsuccessful candidate cannot be considered for the same post within the same term of service.
@@ -246,7 +245,7 @@ The functions of the Election Board are
 - To examine the eligibility of cabinets and approve or disapprove the application of cabinets;
 - To approve and disapprove any publicity put forward by any cabinet;
 - To conduct and supervise the Election;
-- To explain the Election Regulations and Rules in accordance with the Constitutions.
+- To explain the Election Regulations and Rules in accordance with the Constitution.
 - To count the ballots and announce the result;
 - To handle any complaint arising from the election which includes domination, promotion, voting, counting of ballots; and
 - To adjust the Election Schedule.
@@ -284,10 +283,10 @@ Any cabinet shall be nominated by at least one Full Member, and be seconded by
 #### 7.5.1. Schedule
 If there is no nomination of a full cabinet after the deadline of the nominating period, nominations of incomplete cabinets shall then be considered within the following week.
 #### 7.5.2. Composition
-An incomplete cabinet shall be composed of at least six Committee Members, including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary, and a Financial Secretary.  
+An incomplete cabinet shall be composed of at least six committee members, including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary, and a Financial Secretary.  
 If there is no nomination at all, the Annual General Meeting shall resolve this matter.  
 ### 7.6. Voting
-Voting shall be held at Week 1–4 of the Spring Semester, within 7 clear days after the end of the promotion period. Notice of Voting shall be posted on School of Engineering notice areas at least 7 clear days beforehand.
+Voting shall be held at week 1–4 of the spring semester, within 7 clear days after the end of the promotion period. Notice of Voting shall be posted on School of Engineering notice areas at least 7 clear days beforehand.
 #### 7.6.1. Eligibility
 Only Full Members of the Society shall have the right to vote. Voting shall be conducted through General Polling in straight and in accordance with the regulations of General Polling.
 #### 7.6.2. Validity
@@ -342,7 +341,7 @@ One-year Associate Members shall contribute an annual membership fee of HKD$50 f
 Undergraduate Associate Members throughout the duration of study, with 4, 3 and 2 expected study years shall contribute a membership fee of HKD$160, HKD$120, and HKD$80, respectively.  
 Postgraduate Associate Members throughout the duration of study shall contribute an annual membership fee of HKD$50 for the duration of their studies.  
 #### 8.7.4. Non-Refundable
-None of the above Membership Fees shall be refundable.
+None of the above membership fees shall be refundable.
 #### 8.7.5. Adjustment
 If any change of the amount of the previous year's membership fee is made, the new amount shall be approved at the Annual General Meeting unless an increment of less than 20% is made and approved by the current Executive Committee.
 ### 8.8. Loans
@@ -350,22 +349,22 @@ The Society shall not apply or accept any loans outsides Students' Union. If the
 ### 8.9. Fixed Assets
 Disposal of any fixed assets with the net value greater than $1000 must be passed by General Meeting or General Polling.
 ### 8.10. Bank Account
-The Society may open a current and/or saving account in any Government approved financial institution with the names of the Financial Secretary together with another appointed Executive Committee Member, provided that money can be withdrawn always with at least two signatures by only the signature of the Financial Secretary and the signature of one other appointed Executive Committee Member or the President.
+The Society may open a current and/or saving account in any Government approved financial institution with the names of the Financial Secretary together with another appointed Executive Committee member, provided that money can be withdrawn always with at least two signatures by only the signature of the Financial Secretary and the signature of one other appointed Executive Committee member or the President.
 
 ## 9. Transparency of the Society
 ### 9.1. Executive Committee Meeting
-When at least 50% of the Executive Committee members gather, including the President and/or Internal Vice-President together with an agenda, the gathering shall be called an Executive Committee Meeting.
+When at least half of the Executive Committee members gather, including the President and/or Internal Vice-President together with an agenda, the gathering shall be called an Executive Committee Meeting.
 ### 9.2. Minutes
 Request for minutes from an Executive Committee meeting must be submitted in writing, to the internal secretary. The minutes must be produced within one week of receipt of the written request and posted on School of Engineering notice areas.
 
-## 10. Constitutions
+## 10. Constitution
 ### 10.1. Amendment
-Any amendment of the Constitutions shall be made in the Annual General Meeting or Extraordinary General Meeting only, and by receiving a simple majority on agreement.
+Any amendment of the Constitution shall be made in the Annual General Meeting or Extraordinary General Meeting only, and by receiving a simple majority on agreement.
 ### 10.2. Interpretation
-The Executive Committee shall have the right to interpret the Constitutions.
+The Executive Committee shall have the right to interpret the Constitution.
 ### 10.3. Notice of Amendment
-Notice of any amendment of the Constitutions shall be posted within 7 clear days.  
+Notice of any amendment of the Constitution shall be posted within 7 clear days.  
 
 ## 11. Dissolution of the Society
-The society may only be dissolved by a resolution passed by more than seventy-five percent of the Full Members present at a General Meeting or more than seventy-five percent of valid votes supporting the dissolution at General Polling.  
+The Society may only be dissolved by a resolution passed by more than seventy-five percent of the Full Members present at a General Meeting or more than seventy-five percent of valid votes supporting the dissolution at General Polling.  
 Upon dissolution, the Executive Committee is required to announce a full report stating clearly the current financial position of the Society within thirty days. An Extraordinary General Meeting shall be convened to discuss the arrangement of the remaining net assets, if any.
