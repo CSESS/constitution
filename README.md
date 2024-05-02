@@ -147,7 +147,7 @@ A motion of non-confidence may be moved against any member of the Committee or t
 If a motion of non-confidence against the President is being passed by a two-thirds majority of the Quorum at the General Meeting, the General Meeting shall be chaired by either one of the two Vice-Presidents. In the absence of both the Internal and External Vice-Presidents, the attendee can vote any one of the Executive Committee members to be the chair of the General Meeting.  
 If a motion of non-confidence against the Committee as a whole is being passed by a two-thirds majority of the Quorum at the General Meeting, the attendee can vote any one of the Full Members of the Society to be the chair of the General Meeting.
 ### 4.11. Postponement
-A General Meeting shall be postponed if the President of the General Meeting is absent or the quorum is not reached provided that there is thirty minutes of waiting period.  
+A General Meeting shall be postponed if the Chair of the General Meeting is absent or the quorum is not reached provided that there is thirty minutes of waiting period.  
 Another General Meeting shall be convened within 10 days after the failure of the previous one. Notice and agenda concerned shall be posted at least three clear days beforehand. If the quorum still cannot be formed, any Computer Science attendee shall form the quorum.
 
 ## 5. General Polling
@@ -202,18 +202,21 @@ The General Secretary shall be responsible for the general affairs.
 ### 6.4. Session
 The session of an Executive Committee begins at an Annual General Meeting and ends at the next Annual General Meeting. If the Annual General Meeting is replaced by polling, the session shall commence or conclude one week after the polling.
 ### 6.5. Sub-Committee
-Sub-Committee shall be responsible for assisting the executive members with the society affairs. Any three Full Members or General Members can propose the formation of sub-committee with proposal and financial budget approved by the Executive Committee.  
-- At least one executive member should be in the sub-committee.
-- An announcement should be made to the Society members on the formation of the sub-committee.
-- Amendments to the budget can be made by the sub-committee at any time and re-approved by the Executive Committee.
-- The Society is liable up to the balance of the budget. Beyond which the liability lies with the sub-committee.
+Sub-Committee shall be responsible for assisting the executive members with the society affairs.
+#### 6.5.1. Composition
+Any three Full Members or General Members can propose the formation of sub-committee with proposal and financial budget approved by the Executive Committee. At least one Executive Committee member should be in the sub-committee.
+#### 6.5.2. Notice
+An announcement should be made to the Society members on the formation of the sub-committee.
+#### 6.5.3. Finance
+Amendments to the budget can be made by the sub-committee at any time and re-approved by the Executive Committee.  
+The Society is liable up to the balance of the budget. Beyond which the liability lies with the sub-committee.
 ### 6.6. Resignation
 Any Committee Member may resign having submitted a letter of resignation including reason to the President or Internal Vice-President of the Society.  
 Upon receiving the letter of resignation, notice of the resignation shall be posted at least 7 clear days beforehand on School of Engineering notice areas.  
 If the President is resigned, an Extraordinary General Meeting held shall be chaired by either one of the two Vice-Presidents. In the absence of both the Internal and External Vice-Presidents, the Extraordinary General Meeting shall be chaired by any Full Member of the Society appointed by the Committee.  
 The resignation will only be valid after 14 schooldays, and documented in the permanent record of the Society.  
 ### 6.7. Dissolution
-The whole Committee shall dissolve if either the President, Internal Vice-President, External Vice-President, Internal Secretary, External Secretary, or the Financial Secretary is not included in the Committee left, unless the vacancy is filled by any other Full Member of the Society within 14 clear days after the vacancy occurred.  
+The whole Committee shall dissolve if the position(s) of the President, Internal Vice-President, External Vice-President, Internal Secretary, External Secretary, or the Financial Secretary remain vacant, unless the vacancy is filled by any other Full Member of the Society within 14 clear days after the vacancy occurred.  
 The Committee shall dissolute if it is passed by the General Polling.  
 ### 6.8. Vacancies
 In case of the vacancy of the President, their post shall be filled by one of the posts of the rest of the Committee Members and a General Polling based on this matter shall then be held.  
@@ -225,7 +228,7 @@ Any unsuccessful candidate cannot be considered for the same post within the sam
 ### 7.1. Objective
 The objective of the election is to elect democratically the Executive Committee for the next session of the Society.
 ### 7.2. Election Schedule
-The Election shall commerce in the Fall Semester each year according to the following schedule.  
+The Election shall commence in the Fall Semester each year according to the following schedule.  
 Fall semester.  
 Week 9: Deadline for the formation of Election Board.  
 Week 11: Nomination of full cabinet(s).  
@@ -270,8 +273,8 @@ The cabinet shall consist of the following 12 posts.
 12. General Secretary.
 #### 7.4.2. Membership
 Before the announcement of the final list of cabinet(s), the Proposed President, Proposed Internal Vice-President, Proposed External Vice-President, Proposed Internal Secretary, Proposed External Secretary, and Proposed Financial Secretary, and at least 3 more candidates of the applicant cabinet(s) shall be Full Members of the Society.  
-All candidates of the nominated cabinet(s) shall be Full Members of the Society and have joined before the announcement of the final list of cabinets.
-#### 7.4.3. Restriction
+All candidates of the nominated cabinet(s) shall be Full Members of the Society joined before the announcement of the final list of cabinets.
+#### 7.4.3. Exclusivity
 No candidate shall be nominated in the Election for more than one post in any nominated cabinet of the Society.
 ### 7.5. Nomination
 Any cabinet shall be nominated by at least one Full Member, and be seconded by
@@ -297,7 +300,7 @@ The cabinet is successful upon
 The provisional and official result of the Election shall be announced by the Election Board within 24 and 72 hours after the closure of the voting respectively.
 ### 7.7. Re-election
 If the Election fails to generate a new Executive Committee, a re-election shall be conducted. If the re-election also fails to generate a new Executive Committee, a second re-election shall be conducted.  
-If the second re-election also fails to generate a new Executive Committee, the Extraordinary General Meeting shall resolve the matter. Re-election, if any, shall be held before the post of the following Annual General Meeting.  
+If the second re-election also fails to generate a new Executive Committee, an Extraordinary General Meeting shall resolve the matter. Re-election, if any, shall be held before the post of the following Annual General Meeting.  
 The Re-election shall follow the rules and regulations of the Election.  
 ### 7.8. Consultation
 The Consultation shall be convened by the President of the Society and shall be held within 1 week once after the Nominated Cabinet is being elected.  
