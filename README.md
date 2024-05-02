@@ -17,7 +17,7 @@ The objectives of the Society shall be the following.
 5. To promote the Interests of its Members in the field of Computer Science; and
 6. To promote the Interests of its Members in Cultural, Intellectual, Social and Sports activities. 
 ### 1.4. Affiliation
-The Computer Science and Engineering Students’ Society, Hong Kong University of Science and Technology Students’ Union is affiliated to the Students’ Union of Hong Kong University of Science and Technology.
+The Computer Science and Engineering Students’ Society, HKUSTSU is affiliated to the Students’ Union of Hong Kong University of Science and Technology.
 
 ## 2. Membership
 ### 2.1. Full Membership
@@ -36,8 +36,8 @@ Full Members have the privileges
 - To be eligible for Membership of Sub-organizations of the Society;
 - To have the right to vote;
 - To have the right to nominate, to second, to be nominated for election, and to hold office as an executive officer of the Society;
-- To request the minutes from any executive committee meeting;
-- Are welcome to attend and contribute to any executive committee meeting but with no voting rights; and
+- To request the minutes from any Executive Committee meeting;
+- Are welcome to attend and contribute to any Executive Committee meeting but with no voting rights; and
 - To have the speaking right in any General Meeting.
 #### 2.1.3. Obligations
 All potential undergraduate members must have paid the admission fee and the corresponding membership fee for their respective study years, to be considered as Full Members of the Society.  
@@ -98,15 +98,15 @@ Honorary Members have the obligations to follow the resolution of General Meetin
 Any Honorary Member who may contribute to the Society and is recommended by the Executive Committee of the Society may be invited to be an Honorary Advisor of the Society.
 #### 3.1.1. Privileges
 Honorary Advisors have the privileges
-- To request the minute from any executive committee meeting;
-- To attend and contribute any executive committee meeting but with no voting right;
+- To request the minute from any Executive Committee meeting;
+- To attend and contribute any Executive Committee meeting but with no voting right;
 - To have the speaking right in any General Meeting.
 #### 3.1.2. Duties
 Honorary Advisors have the duties
 - To advise the current session of CSESS on certain affairs;
 - To oversee the operations of CSESS when necessary.  
 If there is a requisition signed by an Honorary Advisor, an Extraordinary General Meeting shall be convened by the President within two weeks after the requisition. In case of rejection, notice of the rejection shall be posted within two weeks after the requisition.  
-The session of an Honorary Advisor will last for three years, the Honorary Advisor can be reappointed upon the consent of the current session.
+The session of an Honorary Advisor shall last for three years, the Honorary Advisor can be reappointed upon the consent of the current session.
 ### 3.2. Honorary Auditors
 Any person who may contribute to the Society and is recommended by the Executive Committee of the Society may be invited to be an Honorary Auditor.
 
@@ -154,12 +154,12 @@ Another General Meeting shall be convened within 10 days after the failure of th
 ### 5.1. Authority
 The resolutions of General Polling shall have equal authority as that of General Meeting. The resolutions of General Polling can only be revoked by subsequent General Meeting or General Polling.
 ### 5.2. Conduction 
-General Polling except the polling for the election of new executive committee shall only be held after the General Meeting has failed two times.
+General Polling except the polling for the election of new Executive Committee shall only be held after the General Meeting has failed two times.
 ### 5.3. Notice
 Notice of General Polling and the motion(s) to be voted shall be posted at least 7 clear days beforehand.
 ### 5.4. Voting
 The result of the Polling is valid, provided that the number of votes is not less than twenty-five percent of Full Members of the Society.  
-The polling period shall last for 10 consecutive hours (from 9:00 a.m. to 7:00 p.m.) on the day of polling.  
+The polling period shall last for 72 consecutive hours.  
 The provisional and official results of the General Polling shall be announced by the Executive Committee within 24 and 72 hours after the closure of the voting respectively.  
 Any complaints or appeals about the General Polling shall be made within 48 hours after the closure of the voting.  
 
@@ -186,7 +186,7 @@ The Executive Committee shall consist of the following Committee Members.
 11. Marketing Secretary,
 12. General Secretary.  
 The Executive Committee shall be composed of at least six Committee Members including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary and a Financial Secretary. No member of the Committee may have more than one post.
-### 6.3. Duties of Executive Committee Members
+### 6.3. Duties of Executive Committee Members:
 The President shall be the chief executive of the Society, shall represent the Executive Committee in all affairs and preside at all meetings of the Society.  
 The Internal Vice-President shall assist the President in all internal affairs and shall take the role of acting President during the absence of the President.  
 The External Vice-President shall assist the President in all external affairs.  
@@ -200,12 +200,12 @@ The Academic Secretary shall be responsible for all academic activities of the S
 The Marketing Secretary shall be responsible for the marketing affairs.  
 The General Secretary shall be responsible for the general affairs.
 ### 6.4. Session
-The session of an Executive Committee begins at an Annual General Meeting and ends at the next Annual General Meeting. If the Annual General Meeting is replaced by polling, the session will commence or conclude one week after the polling.
+The session of an Executive Committee begins at an Annual General Meeting and ends at the next Annual General Meeting. If the Annual General Meeting is replaced by polling, the session shall commence or conclude one week after the polling.
 ### 6.5. Sub-Committee
-Sub-Committee shall be responsible for assisting the executive members with the society affairs. Any three Full Members or General Members can propose the formation of sub-committee with proposal and financial budget approved by the executive committee.  
+Sub-Committee shall be responsible for assisting the executive members with the society affairs. Any three Full Members or General Members can propose the formation of sub-committee with proposal and financial budget approved by the Executive Committee.  
 - At least one executive member should be in the sub-committee.
 - An announcement should be made to the Society members on the formation of the sub-committee.
-- Amendments to the budget can be made by the sub-committee at any time and re-approved by the executive committee.
+- Amendments to the budget can be made by the sub-committee at any time and re-approved by the Executive Committee.
 - The Society is liable up to the balance of the budget. Beyond which the liability lies with the sub-committee.
 ### 6.6. Resignation
 Any Committee Member may resign having submitted a letter of resignation including reason to the President or Internal Vice-President of the Society.  
@@ -213,12 +213,12 @@ Upon receiving the letter of resignation, notice of the resignation shall be pos
 If the President is resigned, an Extraordinary General Meeting held shall be chaired by either one of the two Vice-Presidents. In the absence of both the Internal and External Vice-Presidents, the Extraordinary General Meeting shall be chaired by any Full Member of the Society appointed by the Committee.  
 The resignation will only be valid after 14 schooldays, and documented in the permanent record of the Society.  
 ### 6.7. Dissolution
-The whole Committee shall dissolve if either the President, or the Internal Vice-President, or the External Vice-President or the Internal Secretary or the External Secretary or the Financial Secretary is not included in the Committee left, unless the vacancy is filled by any other Full Member of the Society within 14 clear days after the vacancy occurred.  
+The whole Committee shall dissolve if either the President, Internal Vice-President, External Vice-President, Internal Secretary, External Secretary, or the Financial Secretary is not included in the Committee left, unless the vacancy is filled by any other Full Member of the Society within 14 clear days after the vacancy occurred.  
 The Committee shall dissolute if it is passed by the General Polling.  
 ### 6.8. Vacancies
 In case of the vacancy of the President, their post shall be filled by one of the posts of the rest of the Committee Members and a General Polling based on this matter shall then be held.  
 In case of the vacancy of any committee member other than the President, their post shall be filled by a Full Member of the Society as candidate appointed by the committee.  
-Once the vacancy has been filled, notice shall be posted at least 7 clear days beforehand on School of Engineering notice areas. If there are thirty-five or ten percent (whichever is more) of Full Members or General Members written complaints to the executive committee within ten schooldays, then another candidate must be found. Otherwise, the candidate should be considered successful and the vacancy filled.  
+Once the vacancy has been filled, notice shall be posted at least 7 clear days beforehand on School of Engineering notice areas. If there are thirty-five or ten percent (whichever is more) of Full Members or General Members written complaints to the Executive Committee within ten schooldays, then another candidate must be found. Otherwise, the candidate should be considered successful and the vacancy filled.  
 Any unsuccessful candidate cannot be considered for the same post within the same term of service.
 
 ## 7. Election
@@ -231,11 +231,11 @@ Week 9: Deadline for the formation of Election Board.
 Week 11: Nomination of full cabinet(s).  
 The First Week of January: Announcement of the final list of cabinet(s).  
 Spring semester.  
-Week 1–4: Cabinet(s) promotion (2 weeks).  
-Week 1–4: Election (within 7 clear days after the end of promotion period).  
+Week 1-4: Cabinet(s) promotion (2 weeks).  
+Week 1-4: Election (within 7 clear days after the end of promotion period).  
 ### 7.3. Election Board
 #### 7.3.1. Composition
-The Election Board shall consist of 4 members, including both executive committee members and other Full Members. The Election Board shall set up at least 7 clear days before the nomination period. All nominators or nominees cannot be any members of the Election Board.
+The Election Board shall consist of 4 members, including both Executive Committee members and other Full Members. The Election Board shall set up at least 7 clear days before the nomination period. All nominators or nominees cannot be any members of the Election Board.
 #### 7.3.2. Abstention
 Members of the Election Board shall not vote in the Election.
 #### 7.3.3. Functions
@@ -274,31 +274,31 @@ All candidates of the nominated cabinet(s) shall be Full Members of the Society 
 #### 7.4.3. Restriction
 No candidate shall be nominated in the Election for more than one post in any nominated cabinet of the Society.
 ### 7.5. Nomination
-Any cabinet must be nominated by at least one Full Member, and be seconded by
+Any cabinet shall be nominated by at least one Full Member, and be seconded by
 - At least another five Full Members or General Members, excluding the candidates themselves;
-- One representative of the Postgraduate students; and
-- One adviser (A representative of faculty).
+- One representative of the postgraduate students; and
+- One adviser (a representative of faculty).
 #### 7.5.1. Schedule
-If there is no nomination of a full cabinet after the deadline of the nominating period, nominations of incomplete cabinets will be considered within the following week.
+If there is no nomination of a full cabinet after the deadline of the nominating period, nominations of incomplete cabinets shall then be considered within the following week.
 #### 7.5.2. Composition
-An incomplete cabinet must be composed of at least six Committee Members, including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary, and a Financial Secretary.  
-If there is no nomination at all, the Annual General Meeting will resolve this matter.  
+An incomplete cabinet shall be composed of at least six Committee Members, including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary, and a Financial Secretary.  
+If there is no nomination at all, the Annual General Meeting shall resolve this matter.  
 ### 7.6. Voting
-Voting will be held at Week 1–4 of the Spring Semester, within 7 clear days after the end of the promotion period. Notice of Voting will be posted on School of Engineering notice areas at least 7 clear days beforehand.
+Voting shall be held at Week 1–4 of the Spring Semester, within 7 clear days after the end of the promotion period. Notice of Voting shall be posted on School of Engineering notice areas at least 7 clear days beforehand.
 #### 7.6.1. Eligibility
-Only Full Members of the Society will have the right to vote. Voting will be conducted through general polling in straight and in accordance with the regulations of General Polling.
+Only Full Members of the Society shall have the right to vote. Voting shall be conducted through General Polling in straight and in accordance with the regulations of General Polling.
 #### 7.6.2. Validity
-The result of the Polling will be valid if the number of votes is not less than twenty-five percent of the population of Full Members of the Society.
+The result of the Polling is valid provided that the number of votes is not less than twenty-five percent of the population of Full Members of the Society.
 #### 7.6.3. Success
-The cabinet will be successful upon
-- If there is only one cabinet running for the Election, the cabinet will be successful upon receiving a simple majority of confidence over non-confidence votes; or
+The cabinet is successful upon
+- If there is only one cabinet running for the Election, the cabinet is successful upon receiving a simple majority of confidence over non-confidence votes; or
 - If there are two or more cabinets running for the Election, the successful cabinet will be the one receiving the greatest number of votes.
 #### 7.6.4. Announcement
-The provisional and official result of the Election will be announced by the Election Board within 24 and 72 hours after the closure of the voting respectively.
+The provisional and official result of the Election shall be announced by the Election Board within 24 and 72 hours after the closure of the voting respectively.
 ### 7.7. Re-election
-If the Election fails to generate a new Executive Committee, a re-election will be conducted. If the re-election also fails to generate a new Executive Committee, a second re-election will be conducted.  
-If the second re-election also fails to generate a new Executive Committee, the Extraordinary General Meeting will resolve the matter. Re-election, if any, shall be held before the post of the following Annual General Meeting.  
-The Re-election will follow the rules and regulations of the Election.  
+If the Election fails to generate a new Executive Committee, a re-election shall be conducted. If the re-election also fails to generate a new Executive Committee, a second re-election shall be conducted.  
+If the second re-election also fails to generate a new Executive Committee, the Extraordinary General Meeting shall resolve the matter. Re-election, if any, shall be held before the post of the following Annual General Meeting.  
+The Re-election shall follow the rules and regulations of the Election.  
 ### 7.8. Consultation
 The Consultation shall be convened by the President of the Society and shall be held within 1 week once after the Nominated Cabinet is being elected.  
 Five percent or twenty (whichever is greater) of Full Members or General Members of the Society shall form a quorum of the Consultation. If the quorum has not been met, then the Consultation is failed.  
@@ -321,7 +321,7 @@ All proceeds from members' annual fees shall go to this administration fund toge
 ### 8.4. Budget
 At the beginning of each Financial Year, a financial budget shall be prepared and presented by the Financial Secretary at the Annual General Meeting for adoption.
 ### 8.5. Financial Report
-At the end of each Financial Year, a Financial Report shall be prepared and presented at the following Annual General Meeting by the Financial Secretary.
+At the end of each Financial Year, a Financial Report shall be prepared and be presented at the following Annual General Meeting by the Financial Secretary.
 ### 8.6. Administration Expenditure
 Any expenditure of the Society shall be approved and signed by two out of three Executive Committee members, including the President, the Financial Secretary, and an appointed Executive Committee member.
 ### 8.7. Membership Fees
@@ -336,7 +336,7 @@ Postgraduate General Members shall contribute an annual membership fee of HKD$50
 #### 8.7.3. Associate Members
 Associate Members shall contribute a HKD$20 admission fee at their first registration. They shall contribute either an one-year membership fee, or a membership fee for the expected duration of their studies.  
 One-year Associate Members shall contribute an annual membership fee of HKD$50 for one year.  
-Undergraduate Associate Members throughout the duration of study, with 4, 3, and 2 expected study years shall contribute a membership fee of HKD$160, HKD$120, and HKD$80, respectively.  
+Undergraduate Associate Members throughout the duration of study, with 4, 3 and 2 expected study years shall contribute a membership fee of HKD$160, HKD$120, and HKD$80, respectively.  
 Postgraduate Associate Members throughout the duration of study shall contribute an annual membership fee of HKD$50 for the duration of their studies.  
 #### 8.7.4. Non-Refundable
 None of the above Membership Fees shall be refundable.
@@ -351,16 +351,16 @@ The Society may open a current and/or saving account in any Government approved 
 
 ## 9. Transparency of the Society
 ### 9.1. Executive Committee Meeting
-When at least 50% of the executive committee members gather, including the President and/or Internal Vice-President together with an agenda, the gathering shall be called an Executive Committee Meeting.
+When at least 50% of the Executive Committee members gather, including the President and/or Internal Vice-President together with an agenda, the gathering shall be called an Executive Committee Meeting.
 ### 9.2. Minutes
-Request for minutes from an executive committee meeting must be submitted in writing, to the internal secretary. The minutes must be produced within one week of receipt of the written request and posted on School of Engineering notice areas.
+Request for minutes from an Executive Committee meeting must be submitted in writing, to the internal secretary. The minutes must be produced within one week of receipt of the written request and posted on School of Engineering notice areas.
 
 ## 10. Constitutions
 ### 10.1. Amendment
 Any amendment of the Constitutions shall be made in the Annual General Meeting or Extraordinary General Meeting only, and by receiving a simple majority on agreement.
 ### 10.2. Interpretation
 The Executive Committee shall have the right to interpret the Constitutions.
-### 10.3. Notice
+### 10.3. Notice of Amendment
 Notice of any amendment of the Constitutions shall be posted within 7 clear days.  
 
 ## 11. Dissolution of the Society
