@@ -172,7 +172,7 @@ The Executive Committee possess the authority
 - To implement the resolutions of General Meeting and General Polling; and
 - To take appropriate actions in response to cases of emergency.
 ### 6.2. Composition
-The Executive Committee shall consist of the following Committee Members.
+The Executive Committee shall consist of the following positions.
 1. President,
 2. Internal Vice-President,
 3. External Vice-President,
@@ -258,7 +258,7 @@ All adjudication concerning complaints and appeals shall rest on the Election Bo
 Each nominated cabinet should be introduced a maximum amount of expense which is decided by the Election Board.
 ### 7.4. Eligibility of Cabinet
 #### 7.4.1. Composition
-The cabinet shall consist of the following 12 posts.
+The cabinet shall consist of the following positions.
 1. President,
 2. Internal Vice-President,
 3. External Vice-President,
