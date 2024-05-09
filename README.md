@@ -2,7 +2,7 @@
 
 ## 1. General
 ### 1.1. Official Name
-The Computer Science and Engineering Students’ Society, HKUSTSU shall be the Official Full Name of the Society; CSESS, HKUSTSU in short.
+The Computer Science and Engineering Students’ Society, HKUSTSU shall be the Full Name of the Society; CSESS, HKUSTSU in short.
 The Computer Science and Engineering Students’ Society, Hong Kong University of Science and Technology Students’ Union shall be the alias to the Full Name.
 香港科技大學學生會計算機科學及工程學系學生會 shall be the Chinese Name of the Society.
 ### 1.2. Official Language
@@ -10,12 +10,12 @@ The official languages of the Society shall be English and Chinese. Either of th
 If both languages are used, the English version shall be referred to whenever there are ambiguities.
 ### 1.3. Objectives
 The objectives of the Society shall be the following.
-1. To cultivate a Sense of Belonging within the Department;
-2. To serve as a Communication Channel between its Members and other Interest Groups within the University;
-3. To associate with other Organizations outside the University;
-4. To promote the General Welfare of its Members;
-5. To promote the Interests of its Members in the field of Computer Science; and
-6. To promote the Interests of its Members in Cultural, Intellectual, Social and Sports activities. 
+1. To cultivate a sense of belonging within the department;
+2. To serve as a communication channel between its Members and other interest groups within the university;
+3. To associate with other organizations outside the university;
+4. To promote the general welfare of its Members;
+5. To promote the interests of its Members in the field of computer science; and
+6. To promote the interests of its Members in cultural, intellectual, social and sports activities.
 ### 1.4. Affiliation
 The Computer Science and Engineering Students’ Society, HKUSTSU is affiliated to the Students’ Union of Hong Kong University of Science and Technology.
 
@@ -40,7 +40,7 @@ Full Members have the privileges
 - Are welcome to attend and contribute to any Executive Committee meeting but with no voting rights; and
 - To have the speaking right in any General Meeting.
 #### 2.1.3. Obligations
-All potential undergraduate members must have paid the admission fee and the corresponding membership fee for their respective study years, to be considered as Full Members of the Society.  
+All potential undergraduate members must have paid the admission fee and the corresponding membership fee for their respective study years to be considered as Full Members of the Society.  
 All potential postgraduate members must have paid the admission fee and continue to pay the annual fee to be considered as Full Members of the Society.  
 Full Members have the obligations to follow the resolution of General Meetings, and to follow the Constitution of the Society.  
 
@@ -61,7 +61,7 @@ General Members have the privileges
 - Are welcome to attend and contribute to any Executive Committee meeting but with no voting rights;
 - To have the speaking right in any General Meeting. 
 #### 2.2.3. Obligations
-All potential undergraduate members must have paid the admission fee and the corresponding membership fee for their respective study years, to be considered as General Members of the Society.  
+All potential undergraduate members must have paid the admission fee and the corresponding membership fee for their respective study years to be considered as General Members of the Society.  
 All potential postgraduate members must have paid the admission fee and continue to pay the annual fee to be considered as General Members of the Society.  
 General Members have the obligations to follow the resolution of General Meetings, and to follow the Constitution of the Society.  
 ### 2.3. Associate Membership
@@ -120,7 +120,7 @@ The Internal Secretary of the Society shall be responsible for taking notes and 
 Ten percent or thirty (whichever is greater) of Full Members or General Members of the Society shall form a quorum of a General Meeting. If the quorum has not been met, then the General Meeting is failed.
 ### 4.5. Annual General Meeting
 The Annual General Meeting shall be convened by the President of the Society and shall be held within 3 weeks after the Election.  
-If there is other business raised during the Annual General Meeting, all items can only be discussed in the next Extraordinary General Meeting, together with following items listed in the agenda of the next Extraordinary General Meeting.
+If there is other business raised during the Annual General Meeting, all items can only be discussed in the next Extraordinary General Meeting, together with those items listed in the agenda of the next Extraordinary General Meeting.
 1. To receive and adopt the minutes of the previous Annual General Meeting together with the minutes of all Extraordinary General Meetings, which may have held since the previous annual General Meeting.
 2. To receive and adopt the Annual Report of the Secretary for the current session of the Society.
 3. To receive and adopt the Financial Report, including an Audited Financial Statement and a Balance Sheet of the Financial Secretary of the current session of the Society.
@@ -128,8 +128,9 @@ If there is other business raised during the Annual General Meeting, all items c
 5. To announce the Honorary Member(s).
 6. To introduce the Executive Committee of the next session.
 7. To pass and approve or amend the year plan and financial budget of the Executive Committee of the next session.
-8. To pass amendments to the Constitution, if any.
-9. To appoint an Honorary Advisor and/or an Honorary Auditor.
+8. To approve proposed changes in membership fee to become effective in the upcoming session, if any.
+9. To pass amendments to the Constitution, if any.
+10. To appoint an Honorary Advisor and/or an Honorary Auditor.
 ### 4.6. Extraordinary General Meeting
 The Executive Committee shall have the right to convene an Extraordinary General Meeting of any purpose whenever necessary.  
 If there is a requisition signed by not less than five percent or thirty (whichever is greater) of Full Members or General Members of the Society, any Extraordinary General Meeting shall be convened by the President within two weeks after the requisition.  
@@ -184,7 +185,7 @@ The Executive Committee shall consist of the following positions.
 10. Academic Secretary,
 11. Marketing Secretary,
 12. General Secretary.  
-The Executive Committee shall be composed of at least six committee members including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary and a Financial Secretary. No member of the Committee may have more than one post.
+The Executive Committee shall be composed of at least six committee members including a President, an Internal Vice-President, an External Vice-President, an Internal Secretary, an External Secretary and a Financial Secretary. No member of the Committee may have more than one position.
 ### 6.3. Duties of Executive Committee Members:
 The President shall be the chief executive of the Society, shall represent the Executive Committee in all affairs and preside at all meetings of the Society.  
 The Internal Vice-President shall assist the President in all internal affairs and shall take the role of acting President during the absence of the President.  
@@ -218,10 +219,10 @@ The resignation will only be valid after 14 schooldays, and documented in the pe
 The whole Committee shall dissolve if the position(s) of the President, Internal Vice-President, External Vice-President, Internal Secretary, External Secretary, or the Financial Secretary remain vacant, unless the vacancy is filled by any other Full Member of the Society within 14 clear days after the vacancy occurred.  
 The Committee shall dissolute if it is passed by the General Polling.  
 ### 6.8. Vacancies
-In case of the vacancy of the President, their post shall be filled by one of the posts of the rest of the committee members and a General Polling based on this matter shall then be held.  
-In case of the vacancy of any committee member other than the President, their post shall be filled by a Full Member of the Society as candidate appointed by the committee.  
+In case of the vacancy of the President, their position shall be filled by one of the positions of the rest of the committee members and a General Polling based on this matter shall then be held.  
+In case of the vacancy of any committee member other than the President, their position shall be filled by a Full Member of the Society as candidate appointed by the committee.  
 Once the vacancy has been filled, notice shall be posted at least 7 clear days beforehand on School of Engineering notice areas. If there are thirty-five or ten percent (whichever is more) of Full Members or General Members written complaints to the Executive Committee within ten schooldays, then another candidate must be found. Otherwise, the candidate should be considered successful and the vacancy filled.  
-Any unsuccessful candidate cannot be considered for the same post within the same term of service.
+Any unsuccessful candidate cannot be considered for the same position within the same term of service.
 
 ## 7. Election
 ### 7.1. Objective
@@ -274,7 +275,7 @@ The cabinet shall consist of the following positions.
 Before the announcement of the final list of cabinet(s), the Proposed President, Proposed Internal Vice-President, Proposed External Vice-President, Proposed Internal Secretary, Proposed External Secretary, and Proposed Financial Secretary, and at least 3 more candidates of the applicant cabinet(s) shall be Full Members of the Society.  
 All candidates of the nominated cabinet(s) shall be Full Members of the Society joined before the announcement of the final list of cabinets.
 #### 7.4.3. Exclusivity
-No candidate shall be nominated in the Election for more than one post in any nominated cabinet of the Society.
+No candidate shall be nominated in the Election for more than one position in any nominated cabinet of the Society.
 ### 7.5. Nomination
 Any cabinet shall be nominated by at least one Full Member, and be seconded by
 - At least another five Full Members or General Members, excluding the candidates themselves;
@@ -299,7 +300,7 @@ The cabinet is successful upon
 The provisional and official result of the Election shall be announced by the Election Board within 24 and 72 hours after the closure of the voting respectively.
 ### 7.7. Re-election
 If the Election fails to generate a new Executive Committee, a re-election shall be conducted. If the re-election also fails to generate a new Executive Committee, a second re-election shall be conducted.  
-If the second re-election also fails to generate a new Executive Committee, an Extraordinary General Meeting shall resolve the matter. Re-election, if any, shall be held before the post of the following Annual General Meeting.  
+If the second re-election also fails to generate a new Executive Committee, an Extraordinary General Meeting shall resolve the matter. Re-election, if any, shall be held before the position of the following Annual General Meeting.  
 The Re-election shall follow the rules and regulations of the Election.  
 ### 7.8. Consultation
 The Consultation shall be convened by the President of the Society and shall be held within 1 week once after the Nominated Cabinet is being elected.  
@@ -327,23 +328,7 @@ At the end of each Financial Year, a Financial Report shall be prepared and be p
 ### 8.6. Administration Expenditure
 Any expenditure of the Society shall be approved and signed by two out of three Executive Committee members, including the President, the Financial Secretary, and an appointed Executive Committee member.
 ### 8.7. Membership Fees
-#### 8.7.1. Full Members
-Full Members shall contribute a HKD$20 admission fee at their first registration, and a membership fee for the expected duration of their studies.  
-Undergraduate Full Members with 4, 3, 2, and 1 expected study years shall contribute a membership fee of HKD$160, HKD$120, HKD$80, and HKD$40, respectively.  
-Postgraduate Full Members shall contribute an annual membership fee of HKD$50 for the duration of their studies.  
-#### 8.7.2. General Members
-General Members shall contribute a HKD$20 admission fee at their first registration, and a membership fee for the expected duration of their studies.  
-Undergraduate General Members with 4, 3, 2, and 1 expected study years shall contribute a membership fee of HKD$160, HKD$120, HKD$80, and HKD$40, respectively.  
-Postgraduate General Members shall contribute an annual membership fee of HKD$50 for the duration of their studies.  
-#### 8.7.3. Associate Members
-Associate Members shall contribute a HKD$20 admission fee at their first registration. They shall contribute either an one-year membership fee, or a membership fee for the expected duration of their studies.  
-One-year Associate Members shall contribute an annual membership fee of HKD$50 for one year.  
-Undergraduate Associate Members throughout the duration of study, with 4, 3 and 2 expected study years shall contribute a membership fee of HKD$160, HKD$120, and HKD$80, respectively.  
-Postgraduate Associate Members throughout the duration of study shall contribute an annual membership fee of HKD$50 for the duration of their studies.  
-#### 8.7.4. Non-Refundable
-None of the above membership fees shall be refundable.
-#### 8.7.5. Adjustment
-If any change of the amount of the previous year's membership fee is made, the new amount shall be approved at the Annual General Meeting unless an increment of less than 20% is made and approved by the current Executive Committee.
+At the beginning of each Financial Year, membership fees shall be prepared and presented by the Financial Secretary at the Annual General Meeting for adoption. Updates to membership fees shall be posted on the Society Website within 7 clear days.
 ### 8.8. Loans
 The Society shall not apply or accept any loans outsides Students' Union. If the Society has any financial difficulties, the Executive Committee should approach Students' union or Students' Affair Office for assistance.
 ### 8.9. Fixed Assets
